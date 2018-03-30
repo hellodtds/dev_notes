@@ -23,6 +23,8 @@ will make all values twice as large on the x axis and three times as large on th
 
 Don't ask us why everything in Computer Graphics uses radians. We have no idea. :)
 
+Here is more on [Math.PI from MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/PI)
+
 ## Order of operations
 You should generally scale objects first, rotate them next, and then finally translate last. There are times when you'd want to rotate around an arbitrary point instead of an object's center, that's out of scope for this lesson.
 
