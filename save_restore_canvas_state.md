@@ -1,7 +1,10 @@
+# Saving and Restoring Canvas State
+
 Every canvas object contains a stack of drawing states. Stacks are data structures that only let you push new items at one end. When you retrieve an item, it's the last item that was pushed or Last In-First Out(LIFO).
 
 Let's see how this would work in code. Let's say you wanted to draw a couple rectangles in different colors. For this small example, we could get away with reassigning the fillStyle each time instead of using `save` and `restore`.
 
+```
 var c = document.querySelector("#c");
 var ctx = c.getContext("2d");
 
@@ -13,8 +16,11 @@ ctx.fillRect(100,100,10,10);
 
 ctx.fillStyle = "blue";
 ctx.fillRect(200,10,20,20);
+```
+
 This is better.
 
+```
 var c = document.querySelector("#c");
 var ctx = c.getContext("2d");
 
@@ -29,6 +35,8 @@ ctx.fillRect(100,100,10,10);
 ctx.restore();
 
 ctx.fillRect(200,10,20,20);
+```
+
 The canvas state can store:
 
 The current transformation matrix (rotation, scaling, translation)
