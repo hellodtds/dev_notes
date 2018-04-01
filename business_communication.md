@@ -16,3 +16,6 @@ __What is the rule of affect and effect?__
 
 So the basic rule of thumb is that “affect” is almost always a verb and “effect” is usually a noun. There are deviations from this, but when in doubt, stick to the rule. If you need help remembering, think of this mnemonic device: The action is affect, the end result is effect.
 
+Effected means to actually do something, to execute, produce or bring about something. It's an action word of actually doing something, i.e. "He effected a reorganization of the finance department."
+
+Affected is used to describe something being impacted. This is a word you would commonly use when something has been impacted, i.e. "The accountants in finance were affected by the reorganization."
