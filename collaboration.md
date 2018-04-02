@@ -8,6 +8,9 @@
 
 ## Filter By Author
 
-`$ git log --author=Surma`
+`$ git log --author=Surma` or try,
+
+`git log --oneline --author="Paul Lewis"`
 
 Another way that we can display all of the commits by an author is to use the regular git log command but include the --author flag to filter the commits to the provided author.
+
