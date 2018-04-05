@@ -8,8 +8,7 @@ _Developers hate writing documentation_ and _Developers hate badly written docum
 
 I'm creating tldr; post on a multitude of topics that help me fight `impostor syndrome`. I love the web and need help documentating the the steps we all take to make the space better. Please check [Contributions](CONTRIBUTORS.md) for more details or ping me.
 
-[^1]: [
-14 things developers love to hate](https://techbeacon.com/14-things-developers-love-hate)
+[^1]: [14 things developers love to hate](https://techbeacon.com/14-things-developers-love-hate)
 
 
 
