@@ -6,3 +6,18 @@ When you run into an issue, the chances are pretty good that someone has dealt w
 
 - StackOverflow
 
+
+## Topic Speific
+
+1. Placeholders:
+    - https://placeholder.com/
+    - http://lorempixel.com/
+
+2. Webfonts:
+    - https://fonts.google.com/
+    - https://fontawesome.com/
+
+
+## Suggestion
+
+__Breathe: Code >> Test >> Refine (repeat)__
